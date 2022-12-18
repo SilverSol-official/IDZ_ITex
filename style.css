@@ -1,9 +1,11 @@
 .btn{
-    width:100px;
-    height:100px;
+    width:95px;
+    height:95px;
     background-color: aquamarine;
     font-size: xx-large;
     font-weight: bold;
+    color:black;
+    border:solid black 1px;
 }
 
 .shuffle{
@@ -12,4 +14,6 @@
     background-color: lightcyan;
     font-size: xx-large;
     font-weight: bold;
+    color:black;
+    border:solid black 1px;
 }
