@@ -1,0 +1,15 @@
+.btn{
+    width:100px;
+    height:100px;
+    background-color: aquamarine;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.shuffle{
+    width:250px;
+    height:100px;
+    background-color: lightcyan;
+    font-size: xx-large;
+    font-weight: bold;
+}
